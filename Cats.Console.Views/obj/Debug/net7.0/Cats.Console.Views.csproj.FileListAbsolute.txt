@@ -1,0 +1,15 @@
+C:\Repository\MVVM\Cats.Console.Views\bin\Debug\net7.0\Cats.Console.Views.deps.json
+C:\Repository\MVVM\Cats.Console.Views\bin\Debug\net7.0\Cats.Console.Views.dll
+C:\Repository\MVVM\Cats.Console.Views\bin\Debug\net7.0\Cats.Console.Views.pdb
+C:\Repository\MVVM\Cats.Console.Views\bin\Debug\net7.0\Cats.BusinessObjects.dll
+C:\Repository\MVVM\Cats.Console.Views\bin\Debug\net7.0\Cats.BusinessObjects.pdb
+C:\Repository\MVVM\Cats.Console.Views\obj\Debug\net7.0\Cats.Console.Views.csproj.AssemblyReference.cache
+C:\Repository\MVVM\Cats.Console.Views\obj\Debug\net7.0\Cats.Console.Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\MVVM\Cats.Console.Views\obj\Debug\net7.0\Cats.Console.Views.AssemblyInfoInputs.cache
+C:\Repository\MVVM\Cats.Console.Views\obj\Debug\net7.0\Cats.Console.Views.AssemblyInfo.cs
+C:\Repository\MVVM\Cats.Console.Views\obj\Debug\net7.0\Cats.Console.Views.csproj.CoreCompileInputs.cache
+C:\Repository\MVVM\Cats.Console.Views\obj\Debug\net7.0\Cats.Console.Views.csproj.CopyComplete
+C:\Repository\MVVM\Cats.Console.Views\obj\Debug\net7.0\Cats.Console.Views.dll
+C:\Repository\MVVM\Cats.Console.Views\obj\Debug\net7.0\refint\Cats.Console.Views.dll
+C:\Repository\MVVM\Cats.Console.Views\obj\Debug\net7.0\Cats.Console.Views.pdb
+C:\Repository\MVVM\Cats.Console.Views\obj\Debug\net7.0\ref\Cats.Console.Views.dll

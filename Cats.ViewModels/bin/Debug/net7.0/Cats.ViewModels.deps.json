@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Cats.ViewModels/1.0.0": {
+        "dependencies": {
+          "Cats.BusinessObjects": "1.0.0"
+        },
+        "runtime": {
+          "Cats.ViewModels.dll": {}
+        }
+      },
+      "Cats.BusinessObjects/1.0.0": {
+        "runtime": {
+          "Cats.BusinessObjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cats.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cats.BusinessObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

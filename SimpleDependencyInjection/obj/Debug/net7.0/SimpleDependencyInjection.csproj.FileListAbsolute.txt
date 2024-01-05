@@ -1,0 +1,12 @@
+C:\Repository\MVVM\SimpleDependencyInjection\bin\Debug\net7.0\SimpleDependencyInjection.deps.json
+C:\Repository\MVVM\SimpleDependencyInjection\bin\Debug\net7.0\SimpleDependencyInjection.dll
+C:\Repository\MVVM\SimpleDependencyInjection\bin\Debug\net7.0\SimpleDependencyInjection.pdb
+C:\Repository\MVVM\SimpleDependencyInjection\obj\Debug\net7.0\SimpleDependencyInjection.csproj.AssemblyReference.cache
+C:\Repository\MVVM\SimpleDependencyInjection\obj\Debug\net7.0\SimpleDependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\MVVM\SimpleDependencyInjection\obj\Debug\net7.0\SimpleDependencyInjection.AssemblyInfoInputs.cache
+C:\Repository\MVVM\SimpleDependencyInjection\obj\Debug\net7.0\SimpleDependencyInjection.AssemblyInfo.cs
+C:\Repository\MVVM\SimpleDependencyInjection\obj\Debug\net7.0\SimpleDependencyInjection.csproj.CoreCompileInputs.cache
+C:\Repository\MVVM\SimpleDependencyInjection\obj\Debug\net7.0\SimpleDependencyInjection.dll
+C:\Repository\MVVM\SimpleDependencyInjection\obj\Debug\net7.0\refint\SimpleDependencyInjection.dll
+C:\Repository\MVVM\SimpleDependencyInjection\obj\Debug\net7.0\SimpleDependencyInjection.pdb
+C:\Repository\MVVM\SimpleDependencyInjection\obj\Debug\net7.0\ref\SimpleDependencyInjection.dll

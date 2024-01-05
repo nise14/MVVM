@@ -1,0 +1,11 @@
+C:\Repository\MVVM\Cats.BusinessObjects\bin\Debug\net7.0\Cats.BusinessObjects.deps.json
+C:\Repository\MVVM\Cats.BusinessObjects\bin\Debug\net7.0\Cats.BusinessObjects.dll
+C:\Repository\MVVM\Cats.BusinessObjects\bin\Debug\net7.0\Cats.BusinessObjects.pdb
+C:\Repository\MVVM\Cats.BusinessObjects\obj\Debug\net7.0\Cats.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\MVVM\Cats.BusinessObjects\obj\Debug\net7.0\Cats.BusinessObjects.AssemblyInfoInputs.cache
+C:\Repository\MVVM\Cats.BusinessObjects\obj\Debug\net7.0\Cats.BusinessObjects.AssemblyInfo.cs
+C:\Repository\MVVM\Cats.BusinessObjects\obj\Debug\net7.0\Cats.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Repository\MVVM\Cats.BusinessObjects\obj\Debug\net7.0\Cats.BusinessObjects.dll
+C:\Repository\MVVM\Cats.BusinessObjects\obj\Debug\net7.0\refint\Cats.BusinessObjects.dll
+C:\Repository\MVVM\Cats.BusinessObjects\obj\Debug\net7.0\Cats.BusinessObjects.pdb
+C:\Repository\MVVM\Cats.BusinessObjects\obj\Debug\net7.0\ref\Cats.BusinessObjects.dll

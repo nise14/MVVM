@@ -1,0 +1,15 @@
+C:\Repository\MVVM\Cats.ViewModels\obj\Debug\net7.0\Cats.ViewModels.csproj.AssemblyReference.cache
+C:\Repository\MVVM\Cats.ViewModels\obj\Debug\net7.0\Cats.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\MVVM\Cats.ViewModels\obj\Debug\net7.0\Cats.ViewModels.AssemblyInfoInputs.cache
+C:\Repository\MVVM\Cats.ViewModels\obj\Debug\net7.0\Cats.ViewModels.AssemblyInfo.cs
+C:\Repository\MVVM\Cats.ViewModels\obj\Debug\net7.0\Cats.ViewModels.csproj.CoreCompileInputs.cache
+C:\Repository\MVVM\Cats.ViewModels\bin\Debug\net7.0\Cats.ViewModels.deps.json
+C:\Repository\MVVM\Cats.ViewModels\bin\Debug\net7.0\Cats.ViewModels.dll
+C:\Repository\MVVM\Cats.ViewModels\bin\Debug\net7.0\Cats.ViewModels.pdb
+C:\Repository\MVVM\Cats.ViewModels\bin\Debug\net7.0\Cats.BusinessObjects.dll
+C:\Repository\MVVM\Cats.ViewModels\bin\Debug\net7.0\Cats.BusinessObjects.pdb
+C:\Repository\MVVM\Cats.ViewModels\obj\Debug\net7.0\Cats.ViewModels.csproj.CopyComplete
+C:\Repository\MVVM\Cats.ViewModels\obj\Debug\net7.0\Cats.ViewModels.dll
+C:\Repository\MVVM\Cats.ViewModels\obj\Debug\net7.0\refint\Cats.ViewModels.dll
+C:\Repository\MVVM\Cats.ViewModels\obj\Debug\net7.0\Cats.ViewModels.pdb
+C:\Repository\MVVM\Cats.ViewModels\obj\Debug\net7.0\ref\Cats.ViewModels.dll
